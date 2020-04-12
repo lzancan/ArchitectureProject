@@ -10,7 +10,7 @@ import android.widget.ArrayAdapter
 import android.widget.ListView
 import android.widget.Toast
 import com.example.architectureproject.R
-import kotlinx.android.synthetic.main.activity_m_v_c.*
+import kotlinx.android.synthetic.main.activity_m_v_p.*
 
 class MVPActivity : AppCompatActivity(), ViewPresenter {
 
